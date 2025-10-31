@@ -1,6 +1,6 @@
 <div align="center">
 
-![Bannière Camply](assets/banner.png)
+![Bannière Camply](../assets/banner.png)
 
 # 🌿 Camply 🌿
 
