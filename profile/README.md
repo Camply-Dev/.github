@@ -6,8 +6,8 @@
 
 ### Un serveur Discord communautaire de développement **chill** et **relax** 🌱
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/camply)
-[![GitHub](https://img.shields.io/badge/GitHub-Camply-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camply)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/camply-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Camply-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camply-dev)
 
 </div>
 
@@ -58,7 +58,7 @@ Besoin d'une application web, d'un bot Discord, ou d'un projet sur mesure ? Nous
 
 ### 🏕️ Venez vous installer au camp ! 🌿
 
-[![Rejoindre Discord](https://img.shields.io/badge/Rejoindre%20Discord-Camply-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20)](https://discord.gg/camply)
+[![Rejoindre Discord](https://img.shields.io/badge/Rejoindre%20Discord-Camply-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20)](https://discord.gg/camply-dev)
 
 </div>
 
